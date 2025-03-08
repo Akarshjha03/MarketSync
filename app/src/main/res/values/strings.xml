@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarketSync</string>
+    <!-- Get this from Google Cloud Console:
+         1. Go to https://console.cloud.google.com/
+         2. Select your project
+         3. Go to APIs & Services > Credentials
+         4. Create a new OAuth client ID for Web application
+         5. Copy the client ID here -->
+    <string name="google_web_client_id">REPLACE_WITH_OAUTH_WEB_CLIENT_ID</string>
+</resources>

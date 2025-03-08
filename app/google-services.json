@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933086946435",
+    "project_id": "marketsync-2902c",
+    "storage_bucket": "marketsync-2902c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933086946435:android:b2eb118c9dfd2d3250e7b6",
+        "android_client_info": {
+          "package_name": "com.example.marketsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsRJdzPgqSBLC_oT26vNjgfq8QKVCovfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
